@@ -15,58 +15,89 @@
 
 ### 🙋‍♂️ Tentang Gw
 
-- 🎓 Semester 7 **Teknik Informatika** — Universitas Indraprasta PGRI (UNINDRA), Jakarta
+- 🎓 Semester 7 **Teknik Informatika** — Universitas Indraprasta PGRI (UNINDRA), Jakarta (IPK 3.56)
 - 📱 Kreator **MySIKA** — aplikasi akademik all-in-one anak UNINDRA (KRS, jadwal, nilai, LMS, KRL, UniMatch, bot Telegram, APK Android)
 - 🏫 Kontributor **SIAKAD SMAN 42 Jakarta** — sistem informasi akademik (1078 routes, 66 tabel, 7 roles)
 - 🤖 Spesialis **bot Telegram & automation** — lapak mahasiswa, anon chat, downloader, notifikasi
-- 🌱 Minat: **IT Support & Helpdesk**, **troubleshooting**, **server & deploy**
-- 🔧 Hardware + software, cepet adaptasi, problem-solving oriented
+- 🌱 Fokus: **IT Support & Helpdesk** — ngoprek hardware sampai software sampai beres
+- 📊 **15+ proyek** live, dipakai **8.500+ pengguna**
 - ⚡ Prinsip: *"Kalo error, langsung perbaiki saja."*
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-
-**Backend**
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Database & Infra**
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-**Lainnya**
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+### 🧰 Tools & Services
+
+![Muse AI](https://img.shields.io/badge/Muse_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F6821F?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=googlelens&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🏆 Proyek Unggulan
+### 🏆 Proyek
 
 | Proyek | Deskripsi | Tech |
 |--------|-----------|------|
-| 📱 **[MySIKA](https://mysika.my.id)** | Aplikasi akademik UNINDRA: KRS, jadwal hybrid, nilai, tagihan, LMS auto-login + captcha solver, KRL realtime, repository skripsi, **UniMatch** (dating app kampus!), **AnonChat**, bot Telegram, APK Android dengan in-app update & biometric lock | React, FastAPI, Capacitor, Supabase |
-| 🏫 **SIAKAD SMAN 42** | Sistem informasi akademik sekolah: nilai, rapor PDF template-exact, presensi, mutasi, LMS, PPDB, 7 roles | Laravel 11, React, MariaDB |
-| ❤️ **[HDPredictor](https://hdpredictor.koyeb.app)** | Tugas akhir ML — prediksi penyakit jantung (dataset UCI Cleveland), web + bot Telegram interaktif | Flask, scikit-learn, python-telegram-bot |
-| 🤖 **Bot Telegram Army** | LAKU/LAKUMY (lapak mahasiswa), NOTIF (broadcast), AnonChat (anonymous chat + admin panel), TikTok/YouTube downloader | Python |
+| 📱 **[MySIKA Web](https://mysika.my.id)** | Aplikasi akademik UNINDRA: KRS, jadwal hybrid, nilai, tagihan, LMS auto-login + captcha solver, KRL realtime, repository skripsi | React, FastAPI, Supabase |
+| 📲 **[MySIKA APK](https://github.com/dandienter/MySIKA-Unindra)** | Versi Android: in-app update, biometric lock, notifikasi | Capacitor, Android |
+| 🏫 **SIAKAD SMAN 42** | Sistem informasi akademik sekolah: nilai, rapor PDF template-exact, presensi, mutasi, LMS, PPDB | Laravel 11, React, MariaDB |
+| 💬 **[AnonIndra Bot](https://t.me/anonindra_bot)** | Anonymous chat 1-on-1 buat anak UNINDRA + admin panel (report, filter kata, mute/ban) | Python, Telegram Bot API |
+| 💘 **UniMatch** | Dating app kampus — matchmaking mahasiswa UNINDRA | React, FastAPI, Supabase |
 | 🛒 **DStore** | Toko online PrestaShop 9.2 — 58 produk, tema custom, lokal Indonesia | PrestaShop, PHP, MySQL |
-| 🌱 **GrowTrack** | Sistem monitoring tumbuh kembang balita Posyandu — penilaian status gizi **standar WHO 2006** (tabel LMS resmi), laporan PDF | Java, NetBeans, MySQL |
+| ❤️ **[HDPredictor](https://hdpredictor.koyeb.app)** | Tugas akhir ML — prediksi penyakit jantung (dataset UCI Cleveland), web + bot Telegram interaktif | Flask, scikit-learn |
+| 📢 **[UnindraBase](https://mysika.my.id/fess)** | Menfess kampus — auto cross-post Threads + Instagram | Python, FastAPI |
+| 🛍️ **LAKU** | Lapak mahasiswa UNINDRA — marketplace kampus via bot Telegram | Python, Telegram Bot API |
+| 📖 **Panduan PMB Unindra** | Website panduan penerimaan mahasiswa baru | Web App |
+| 🚂 **Raily** | Info & tools seputar kereta api | Web App |
+| 🤖 **SIKA Unindra Bot** | Bot Telegram asisten kampus | Python |
+| 🧠 **Unindra AI Chatbot** | Chatbot AI seputar kampus UNINDRA | JavaScript, AI |
+| 🕵️ **Kepo-in Anonymous** | Platform anonymous messaging | Web App |
+| 🎓 **MABA Validator** | Tools validasi data mahasiswa baru | Web App |
+| 📚 **Belajar Bareng** | Platform belajar komunitas | Web App |
+| 🧾 **Invoice Generator** | Generator invoice online | Web App |
+| 🌱 **GrowTrack** | Monitoring tumbuh kembang balita Posyandu — status gizi **standar WHO 2006** (tabel LMS resmi), laporan PDF | Java, NetBeans, MySQL |
+
+---
+
+### 🎓 Sertifikasi
+
+- 🖥️ **Computer Operator Certification** — 2023
+- 🎨 **Multimedia Competency P1 & P2** — 2023
+- 📜 **JavaScript Programming** (Dicoding) — 2024
+- ⚙️ **Backend Development** (MySkill) — 2024
 
 ---
 
@@ -115,7 +146,8 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@dandisubhani_-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dandisubhani_)
 [![GitHub](https://img.shields.io/badge/GitHub-dandienter-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dandienter)
-[![Website](https://img.shields.io/badge/Web-mysika.my.id-0f9d94?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mysika.my.id)
+[![Website](https://img.shields.io/badge/Portfolio-dandi.unindra.web.id-0f9d94?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dandi.unindra.web.id)
+[![MySIKA](https://img.shields.io/badge/MySIKA-mysika.my.id-0f9d94?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mysika.my.id)
 
 </div>
 
