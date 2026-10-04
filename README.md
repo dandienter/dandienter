@@ -120,16 +120,6 @@
 
 ---
 
-### 📈 Grafik Aktivitas
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dandienter&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 ### 🐍 Kontribusi
 
 <div align="center">
